@@ -1,0 +1,59 @@
+    .description {
+      font-family: Thompson Modern;
+      font-size: 18px;
+      margin: auto;
+      color: #7B92A2;
+      text-align: center;
+      opacity: 0.8;
+      margin-top: 20px;
+      min-width: 550px;
+      width: 30%;
+      font-weight: 300;
+    }
+    
+    hr {
+      width: 20px;
+      height: 4px;
+      background-color: #9BB6C9;
+      opacity: 1;
+      margin: 3vw auto 4vw auto;
+    }
+    
+    .rectangle {
+      min-width: 550px;
+      min-height: 78px;
+      width: 30%;
+      height: 5vw;
+      margin: 0 auto;
+      margin-top: 2vw;
+      color: white;
+      font-family: Thompson Modern;
+      padding: 22px 30px;
+      font-size: 18px;
+      font-weight: 349;
+      
+    }
+
+    .applyhere {
+      width: 300px;
+      height: 50px;
+      background-color: #FFF;
+      border: 1.5px darkgray solid;
+      color: darkgray;
+      position: relative;
+      margin-top: 20px;
+      margin-bottom: 8px;
+      text-decoration: none;
+      outline: none;
+    }
+
+    .new_job {
+      justify-content: center;
+      text-align: center;
+    }
+
+    a:link, a:hover, a:visited, a:active {
+      text-decoration: none;
+      color: darkgray;
+      font-family: Thompson Modern 12px;
+    }
